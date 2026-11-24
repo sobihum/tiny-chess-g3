@@ -1,0 +1,8 @@
+vendor/
+chess/work/stockfish/
+chess/cache/
+chess/work/beam4/g*/checkpoint.json
+chess/work/beam4/g*/log.jsonl
+chess/work/beam4/g*/*.out
+*.zip
+env.sh
